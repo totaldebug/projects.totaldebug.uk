@@ -1,0 +1,20 @@
+---
+# Site settings
+title: Steven Makrs Project listing
+description: ''
+
+# Build settings
+theme: jekyll-theme-midnight
+
+# Exclude from processing.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
