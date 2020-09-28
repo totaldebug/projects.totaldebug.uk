@@ -52,8 +52,8 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
-| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/atomic-calendar-revive%20CI/badge.svg?branch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003;    | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
-| [dotfiles](https://galaxy.ansible.com/marksie1988/home-assistant-config) | [![Build Status](https://github.com/marksie1988/home-assistant-config/workflows/home-assistant-config%20CI/badge.svg?branch=master)](https://github.com/marksie1988/home-assistant-config/actions)  | &#10003; | [GitHub](https://github.com/marksie1988/home-assistant-config) |
+| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/Validate%20HACS/badge.svgbranch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003;    | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
+| [home-assistant-config](https://galaxy.ansible.com/marksie1988/home-assistant-config) | [![Build Status](https://github.com/marksie1988/home-assistant-config/workflows/Home%20Assistant%20CI/badge.svg?branch=master)](https://github.com/marksie1988/home-assistant-config/actions)  | &#10003; | [GitHub](https://github.com/marksie1988/home-assistant-config) |
 | [dotfiles](https://galaxy.ansible.com/marksie1988/dotfiles) | | &#10003; | [GitHub](https://github.com/marksie1988/dotfiles) |
 
 <a href="#">Back to Top</a>
