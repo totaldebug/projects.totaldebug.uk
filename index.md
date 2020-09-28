@@ -24,7 +24,6 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
   - [Python projects](#python-projects)
   - [Ansible Roles](#roles)
   - [Other Projects](#projects)
-  - [Ansible Videos and Presentations](#presentations)
 
 ## <a name="python-projects"></a>Python-based Projects
 
@@ -35,6 +34,8 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 | [OctoAPI](https://github.com/totaldebug/OctoAPI) |  | &#x270e; | [GitHub](https://github.com/totaldebug/OctoAPI) |
 | [pulsarr](https://github.com/totaldebug/pulsarr) |  | &#x270e; | [GitHub](https://github.com/totaldebug/pulsarr) |
 
+<a href="#">Back to Top</a>
+
 ## <a name="roles"></a>Ansible Roles
 
 NOTE: All of my Ansible roles are currently in development stage, I have just started to use ansible to automate home server deployment.
@@ -43,8 +44,7 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 | -----| ----------- | ----------- | ---------- |
 | [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
 | [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
-| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
-| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/motd) | | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
+| [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
 
 <a href="#">Back to Top</a>
 
@@ -52,7 +52,7 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
-| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/Validate%20HACS/badge.svgbranch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003;    | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
+| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/Validate%20HACS/badge.svg?branch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003;    | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
 | [home-assistant-config](https://galaxy.ansible.com/marksie1988/home-assistant-config) | [![Build Status](https://github.com/marksie1988/home-assistant-config/workflows/Home%20Assistant%20CI/badge.svg?branch=master)](https://github.com/marksie1988/home-assistant-config/actions)  | &#10003; | [GitHub](https://github.com/marksie1988/home-assistant-config) |
 | [dotfiles](https://galaxy.ansible.com/marksie1988/dotfiles) | | &#10003; | [GitHub](https://github.com/marksie1988/dotfiles) |
 
