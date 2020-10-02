@@ -4,7 +4,7 @@ description: ''
 ---
 ## About Steven Marks (marksie1988 / Total Debug)
 
-Steven Marks is a Systems Engineer and software developer from Leeds, England. He started developing small php apps back in 2001, Over recent years moving to Ansible  / PowerShell / Python / JavaScript. 
+Steven Marks is a Systems Engineer and software developer from Leeds, England. He started developing small php apps back in 2001, Over recent years moving to Ansible  / PowerShell / Python / JavaScript.
 
 ## Project Maintenance Status
 
@@ -42,9 +42,10 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
-| [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
+| [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | [![Build Status](https://github.com/totaldebug/ansible-role-webhook/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-webhook/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
+| [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | [![Build Status](https://github.com/totaldebug/ansible-role-motd/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-motd/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
 | [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
-| [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
+
 
 <a href="#">Back to Top</a>
 
@@ -52,7 +53,7 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
-| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/Validate%20HACS/badge.svg?branch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003;    | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
+| [atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive) | [![Build Status](https://github.com/marksie1988/atomic-calendar-revive/workflows/Validate%20HACS/badge.svg?branch=master)](https://github.com/marksie1988/atomic-calendar-revive/actions) | &#10003; | [GitHub](https://github.com/marksie1988/atomic-calendar-revive) |
 | [home-assistant-config](https://galaxy.ansible.com/marksie1988/home-assistant-config) | [![Build Status](https://github.com/marksie1988/home-assistant-config/workflows/Home%20Assistant%20CI/badge.svg?branch=master)](https://github.com/marksie1988/home-assistant-config/actions)  | &#10003; | [GitHub](https://github.com/marksie1988/home-assistant-config) |
 | [dotfiles](https://galaxy.ansible.com/marksie1988/dotfiles) | | &#10003; | [GitHub](https://github.com/marksie1988/dotfiles) |
 
