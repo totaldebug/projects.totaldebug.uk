@@ -45,7 +45,7 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 | [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | [![Build Status](https://github.com/totaldebug/ansible-role-webhook/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-webhook/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
 | [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | [![Build Status](https://github.com/totaldebug/ansible-role-motd/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-motd/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
 | [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
-
+| [totaldebug.minecraft](https://galaxy.ansible.com/totaldebug/minecraft) | [![Build Status](https://github.com/totaldebug/ansible-role-minecraft/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-minecraft/actions)  | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-minecraft) |
 
 <a href="#">Back to Top</a>
 
