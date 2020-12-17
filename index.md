@@ -4,7 +4,7 @@ description: ''
 ---
 ## About Steven Marks (marksie1988 / Total Debug)
 
-Steven Marks is a Systems Engineer and software developer from Leeds, England. He started developing small php apps back in 2001, Over recent years moving to Ansible  / PowerShell / Python / JavaScript.
+Steven Marks is a Full Stack Systems Engineer and software developer from Leeds, England. He started developing small php apps back in 2001, Over recent years moving to Ansible  / PowerShell / Python / JavaScript.
 
 ## Project Maintenance Status
 
@@ -29,9 +29,8 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
-| [PyArr](https://pypi.org/project/pyarr/) | [![Build Status](https://github.com/totaldebug/PyArr/workflows/PyArr%20CI/badge.svg?branch=master)](https://github.com/totaldebug/PyArr/actions) | &#x270e;    | [GitHub](https://github.com/totaldebug/PyArr) |
+| [pyarr](https://pypi.org/project/pyarr/) | [![Build Status](https://github.com/totaldebug/pyarr/workflows/PyArr%20CI/badge.svg?branch=master)](https://github.com/totaldebug/pyarr/actions) | &#10003;  | [GitHub](https://github.com/totaldebug/pyarr) |
 | [cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns) |  | &#10003; | [GitHub](https://github.com/totaldebug/cloudflare-ddns) |
-| [OctoAPI](https://github.com/totaldebug/OctoAPI) |  | &#x270e; | [GitHub](https://github.com/totaldebug/OctoAPI) |
 | [pulsarr](https://github.com/totaldebug/pulsarr) |  | &#x270e; | [GitHub](https://github.com/totaldebug/pulsarr) |
 
 <a href="#">Back to Top</a>
@@ -45,7 +44,7 @@ NOTE: All of my Ansible roles are currently in development stage, I have just st
 | [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | [![Build Status](https://github.com/totaldebug/ansible-role-webhook/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-webhook/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
 | [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | [![Build Status](https://github.com/totaldebug/ansible-role-motd/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-motd/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
 | [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
-| [totaldebug.minecraft](https://galaxy.ansible.com/totaldebug/minecraft) | [![Build Status](https://github.com/totaldebug/ansible-role-minecraft/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-minecraft/actions)  | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-minecraft) |
+| [totaldebug.minecraft](https://galaxy.ansible.com/totaldebug/minecraft) | [![Build Status](https://github.com/totaldebug/ansible-role-minecraft/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-minecraft/actions)  | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-minecraft) |
 
 <a href="#">Back to Top</a>
 
