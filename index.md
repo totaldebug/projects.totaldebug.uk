@@ -23,6 +23,7 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 
   - [Python projects](#python-projects)
   - [Ansible Roles](#roles)
+  - [Ansible Modules](#modules)
   - [Other Projects](#projects)
 
 ## <a name="python-projects"></a>Python-based Projects
@@ -37,17 +38,21 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 
 ## <a name="roles"></a>Ansible Roles
 
-NOTE: All of my Ansible roles are currently in development stage, I have just started to use ansible to automate home server deployment.
-
 | Name | Test Status | Maintained? | Repository |
 | -----| ----------- | ----------- | ---------- |
 | [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | [![Build Status](https://github.com/totaldebug/ansible-role-webhook/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-webhook/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
 | [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | [![Build Status](https://github.com/totaldebug/ansible-role-motd/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-motd/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
-| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
+| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
 | [totaldebug.minecraft](https://galaxy.ansible.com/totaldebug/minecraft) | [![Build Status](https://github.com/totaldebug/ansible-role-minecraft/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-minecraft/actions)  | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-minecraft) |
 | [totaldebug.deluge](https://galaxy.ansible.com/totaldebug/deluge) | [![Build Status](https://github.com/totaldebug/ansible-role-deluge/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-deluge/actions)  | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-deluge) |
 
 <a href="#">Back to Top</a>
+
+## <a name="modules"></a>Ansible Modules
+
+| Name | Test Status | Maintained? | Repository |
+| -----| ----------- | ----------- | ---------- |
+| [ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio) |  | &#10003; | [GitHub](https://github.com/totaldebug/ansible-module-hassio) |
 
 ## <a name="projects"></a>Other Projects
 
