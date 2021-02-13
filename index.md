@@ -42,7 +42,7 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 | -----| ----------- | ----------- | ---------- |
 | [totaldebug.webhook](https://galaxy.ansible.com/totaldebug/webhook) | [![Build Status](https://github.com/totaldebug/ansible-role-webhook/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-webhook/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-webhook) |
 | [totaldebug.motd](https://galaxy.ansible.com/totaldebug/motd) | [![Build Status](https://github.com/totaldebug/ansible-role-motd/workflows/CI/badge.svg?branch=master)](https://github.com/totaldebug/ansible-role-motd/actions) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-motd) |
-| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
+| [totaldebug.hassio](https://galaxy.ansible.com/totaldebug/hassio) | ![Build Status](https://github.com/totaldebug/ansible-role-hassio/workflows/CI/badge.svg) | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-hassio) |
 | [totaldebug.minecraft](https://galaxy.ansible.com/totaldebug/minecraft) | [![Build Status](https://github.com/totaldebug/ansible-role-minecraft/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-minecraft/actions)  | &#10003; | [GitHub](https://github.com/totaldebug/ansible-role-minecraft) |
 | [totaldebug.deluge](https://galaxy.ansible.com/totaldebug/deluge) | [![Build Status](https://github.com/totaldebug/ansible-role-deluge/workflows/CI/badge.svg)](https://github.com/totaldebug/ansible-role-deluge/actions)  | &#x270e; | [GitHub](https://github.com/totaldebug/ansible-role-deluge) |
 
