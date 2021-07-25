@@ -22,6 +22,7 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 ## Table of Contents
 
   - [Python projects](#python-projects)
+  - [Github Actions](#github-actions)
   - [Ansible Roles](#roles)
   - [Ansible Modules](#modules)
   - [Other Projects](#projects)
@@ -33,6 +34,15 @@ I use a stale issue bot to clean up repository issues and PRs, and I also someti
 | [pyarr](https://pypi.org/project/pyarr/) | [![Build Status](https://github.com/totaldebug/pyarr/workflows/PyArr%20CI/badge.svg?branch=master)](https://github.com/totaldebug/pyarr/actions) | &#10003;  | [GitHub](https://github.com/totaldebug/pyarr) |
 | [cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns) |  | &#10003; | [GitHub](https://github.com/totaldebug/cloudflare-ddns) |
 | [pulsarr](https://github.com/totaldebug/pulsarr) |  | &#x270e; | [GitHub](https://github.com/totaldebug/pulsarr) |
+
+<a href="#">Back to Top</a>
+
+## <a name="github-actions"></a>Github Actions
+
+| Name | Test Status | Maintained? | Repository |
+| -----| ----------- | ----------- | ---------- |
+| [sphinx-publish-action](https://github.com/totaldebug/sphinx-publish-action) | [![Build Status](https://github.com/totaldebug/sphinx-publish-action/actions/workflows/test.yml/badge.svg)](https://github.com/totaldebug/sphinx-publish-action/actions) | &#10003;  | [GitHub](https://github.com/totaldebug/sphinx-publish-action) |
+
 
 <a href="#">Back to Top</a>
 
